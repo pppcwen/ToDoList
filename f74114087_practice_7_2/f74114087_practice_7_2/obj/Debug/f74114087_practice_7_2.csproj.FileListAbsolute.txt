@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\NCKU\HW\f74114087_practice_7_2\f74114087_practice_7_2\bin\Debug\f74114087_practice_7_2.exe.config
+C:\Users\User\Desktop\NCKU\HW\f74114087_practice_7_2\f74114087_practice_7_2\bin\Debug\f74114087_practice_7_2.exe
+C:\Users\User\Desktop\NCKU\HW\f74114087_practice_7_2\f74114087_practice_7_2\bin\Debug\f74114087_practice_7_2.pdb
+C:\Users\User\Desktop\NCKU\HW\f74114087_practice_7_2\f74114087_practice_7_2\obj\Debug\f74114087_practice_7_2.Form1.resources
+C:\Users\User\Desktop\NCKU\HW\f74114087_practice_7_2\f74114087_practice_7_2\obj\Debug\f74114087_practice_7_2.Form2.resources
+C:\Users\User\Desktop\NCKU\HW\f74114087_practice_7_2\f74114087_practice_7_2\obj\Debug\f74114087_practice_7_2.Properties.Resources.resources
+C:\Users\User\Desktop\NCKU\HW\f74114087_practice_7_2\f74114087_practice_7_2\obj\Debug\f74114087_practice_7_2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\NCKU\HW\f74114087_practice_7_2\f74114087_practice_7_2\obj\Debug\f74114087_practice_7_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NCKU\HW\f74114087_practice_7_2\f74114087_practice_7_2\obj\Debug\f74114087_practice_7_2.exe
+C:\Users\User\Desktop\NCKU\HW\f74114087_practice_7_2\f74114087_practice_7_2\obj\Debug\f74114087_practice_7_2.pdb
+C:\Users\User\Desktop\NCKU\HW\f74114087_practice_7_2\f74114087_practice_7_2\obj\Debug\f74114087_practice_7_2.finish.resources
+C:\Users\User\Desktop\NCKU\HW\f74114087_practice_7_2\f74114087_practice_7_2\obj\Debug\f74114087_practice_7_2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\NCKU\HW\f74114087_practice_7_2\f74114087_practice_7_2\obj\Debug\f74114087_practice_7_2.csproj.SuggestedBindingRedirects.cache
