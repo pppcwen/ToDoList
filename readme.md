@@ -1,4 +1,4 @@
-# to_do_list
+# ToDoList
 ## About
 A C# Windows Programming project.  
 This application has the following features:
